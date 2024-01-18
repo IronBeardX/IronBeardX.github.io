@@ -1,0 +1,3041 @@
+{
+  "films": {
+    "snow_white_and_the_seven_dwarfs": {
+      "release_date": "21-12-1937",
+      "film_name": "Snow White and the Seven Dwarfs",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "snow_white_and_the_seven_dwarfs_v1": {
+          "release_date": "1937",
+          "tags": [
+            "main:human",
+            "main:female",
+            "main:adult",
+            "non-main:male",
+            "non-main:non-human",
+            "non-main:female",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "pinocchio": {
+      "release_date": "07-02-1940",
+      "film_name": "Pinocchio",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "pinocchio_v1": {
+          "release_date": "1940",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:non-human",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "fantasia": {
+      "release_date": "13-11-1940",
+      "film_name": "Fantasia",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "fantasia_v1": {
+          "release_date": "1940",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:non-human",
+            "non-main:male",
+            "flight",
+            "magic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_reluctant_dragon": {
+      "release_date": "20-06-1941",
+      "film_name": "The Reluctant Dragon",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_reluctant_dragon_v1": {
+          "release_date": "1941",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "main:non-human",
+"main:male",
+"main:adult",
+            "ilustration",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "dumbo": {
+      "release_date": "23-10-1941",
+      "film_name": "Dumbo",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "dumbo_v1": {
+          "release_date": "1941",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:child",
+            "non-main:male",
+            "non-main:non-human",
+            "non-main:non-human",
+            "ilustration",
+"stylized",
+            "text:promotion"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "bambi": {
+      "release_date": "13-08-1942",
+      "film_name": "Bambi",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "bambi_v1": {
+          "release_date": "1942",
+          "tags": [
+            "main:female",
+            "main:human",
+            "main:child",
+            "ilustration",
+            "stylized",
+            "text:promotion",
+            "text:flavor",
+            "text:portfolio",
+            "non-main:non-human",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "saludos_amigos": {
+      "release_date": "24-08-1942",
+      "film_name": "Saludos Amigos",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "saludos_amigos_v1": {
+          "release_date": "1942",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:female",
+            "ilustration",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "victory_through_air_power": {
+      "release_date": "17-07-1943",
+      "film_name": "Victory Through Air Power",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "victory_through_air_power_v1": {
+          "release_date": "1943",
+          "tags": [
+            "flight",
+            "text:flavor",
+            "ilustration",
+              "realistic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_three_caballeros": {
+      "release_date": "21-12-1944",
+      "film_name": "The Three Caballeros",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_three_caballeros_v1": {
+          "release_date": "1944",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:female",
+            "non-main:male",
+            "ilustration",
+"realistic",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "make_mine_music": {
+      "release_date": "20-04-1946",
+      "film_name": "Make Mine Music",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "make_mine_music_v1": {
+          "release_date": "1946",
+          "tags": [
+            "text:flavor",
+            "non-main:male",
+            "non-main:female",
+            "magic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "song_of_the_south": {
+      "release_date": "20-11-1946",
+      "film_name": "Song of the South",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "song_of_the_south_v1": {
+          "release_date": "1946",
+          "tags": [
+            "ilustration",
+"realistic",
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "black_person"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "fun_and_fancy_free": {
+      "release_date": "27-09-1947",
+      "film_name": "Fun and Fancy Free",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "fun_and_fancy_free_v1": {
+          "release_date": "1947",
+          "tags": [
+            "text:flavor",
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:non-human",
+            "ilustration",
+"stylized",
+            "ilustration",
+"realistic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "melody_time": {
+      "release_date": "27-05-1948",
+      "film_name": "Melody Time",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "melody_time_v1": {
+          "release_date": "1948",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:female",
+            "non-main:male",
+            "non-main:non-human",
+            "text:flavor",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "so_dear_to_my_heart": {
+      "release_date": "29-11-1948",
+      "film_name": "So Dear to My Heart",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "so_dear_to_my_heart_v1": {
+          "release_date": "1948",
+          "tags": [
+            "ilustration",
+"realistic",
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:female",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_adventures_of_ichabod_and_mr._toad": {
+      "release_date": "05-10-1949",
+      "film_name": "The Adventures of Ichabod and Mr. Toad",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_adventures_of_ichabod_and_mr._toad_v1": {
+          "release_date": "1949",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "cinderella": {
+      "release_date": "15-02-1950",
+      "film_name": "Cinderella",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "cinderella_v1": {
+          "release_date": "1950",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "magic",
+            "text:flavor",
+            "text:promotion",
+            "text:portfolio",
+            "non-main:non-human",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "alice_in_wonderland": {
+      "release_date": "28-07-1951",
+      "film_name": "Alice in Wonderland",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "alice_in_wonderland_v1": {
+          "release_date": "1951",
+          "tags": [
+            "main:female",
+            "main:human",
+            "main:child",
+            "ilustration",
+            "stylized",
+            "text:promotion",
+            "non-main:non-human",
+            "non-main:human",
+            "non-main:female",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "peter_pan": {
+      "release_date": "05-02-1953",
+      "film_name": "Peter Pan",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "peter_pan_v1": {
+          "release_date": "1953",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "main:female",
+"main:human",
+"main:child",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "lady_and_the_tramp": {
+      "release_date": "22-06-1955",
+      "film_name": "Lady and the Tramp",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "lady_and_the_tramp_v1": {
+          "release_date": "1955",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:non-human",
+"main:female",
+"main:adult",
+            "text:promotion",
+            "text:flavor",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "sleeping_beauty": {
+      "release_date": "29-01-1959",
+      "film_name": "Sleeping Beauty",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "sleeping_beauty_v1": {
+          "release_date": "1959",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:non-human",
+            "non-main:female",
+            "non-main:male",
+            "text:flavor",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "one_hundred_and_one_dalmatians": {
+      "release_date": "25-01-1961",
+      "film_name": "One Hundred and One Dalmatians",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "one_hundred_and_one_dalmatians_v1": {
+          "release_date": "1961",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:non-human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_sword_in_the_stone": {
+      "release_date": "25-12-1963",
+      "film_name": "The Sword in the Stone",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_sword_in_the_stone_v1": {
+          "release_date": "1963",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:male",
+            "non-main:human",
+            "non-main:non-human",
+            "non-main:non-human",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "mary_poppins": {
+      "release_date": "27-08-1964",
+      "film_name": "Mary Poppins",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "mary_poppins_v1": {
+          "release_date": "1964",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_jungle_book": {
+      "release_date": "18-10-1967",
+      "film_name": "The Jungle Book",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_jungle_book_v1": {
+          "release_date": "1967",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "main:non-human",
+"main:male",
+"main:adult",
+            "text:flavor",
+            "non-main:female",
+            "non-main:male",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_aristocats": {
+      "release_date": "24-12-1970",
+      "film_name": "The Aristocats",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_aristocats_v1": {
+          "release_date": "1970",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:non-human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "ilustration",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "bedknobs_and_broomsticks": {
+      "release_date": "07-10-1971",
+      "film_name": "Bedknobs and Broomsticks",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "bedknobs_and_broomsticks_v1": {
+          "release_date": "1971",
+          "tags": [
+            "ilustration",
+            "stylized",
+            "text:flavor",
+            "non-main:non-human",
+            "non-main:human",
+            "non-main:female",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "robin_hood": {
+      "release_date": "08-11-1973",
+      "film_name": "Robin Hood",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "robin_hood_v1": {
+          "release_date": "1973",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:non-human",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_many_adventures_of_winnie_the_pooh": {
+      "release_date": "11-03-1977",
+      "film_name": "The Many Adventures of Winnie the Pooh",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_many_adventures_of_winnie_the_pooh_v1": {
+          "release_date": "1977",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:female",
+            "non-main:male",
+            "flight",
+            "ilustration",
+"stylized",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_rescuers": {
+      "release_date": "22-06-1977",
+      "film_name": "The Rescuers",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_rescuers_v1": {
+          "release_date": "1977",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "non-main:non-human",
+            "flight",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "petes_dragon": {
+      "release_date": "03-11-1977",
+      "film_name": "Pete's Dragon",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "petes_dragon_v1": {
+          "release_date": "1977",
+          "tags": [
+            "ilustration",
+"stylized",
+            "ilustration",
+"realistic",
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_fox_and_the_hound": {
+      "release_date": "10-07-1981",
+      "film_name": "The Fox and the Hound",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_fox_and_the_hound_v1": {
+          "release_date": "1981",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:child",
+            "main:non-human",
+"main:female",
+"main:child",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_black_cauldron": {
+      "release_date": "24-07-1985",
+      "film_name": "The Black Cauldron",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_black_cauldron_v1": {
+          "release_date": "1985",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:male",
+            "non-main:female",
+            "text:flavor",
+            "magic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_great_mouse_detective": {
+      "release_date": "02-07-1986",
+      "film_name": "The Great Mouse Detective",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_great_mouse_detective_v1": {
+          "release_date": "1986",
+          "tags": [
+            "main:non-human",
+"main:female",
+"main:child",
+            "non-main:female",
+            "non-main:male",
+            "non-main:non-human",
+            "non-main:non-human",
+            "ilustration",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "who_framed_roger_rabbit": {
+      "release_date": "22-06-1988",
+      "film_name": "Who Framed Roger Rabbit",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "who_framed_roger_rabbit_v1": {
+          "release_date": "1988",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:non-human",
+            "ilustration",
+            "stylized",
+            "live_action",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "oliver_&_company": {
+      "release_date": "18-11-1988",
+      "film_name": "Oliver & Company",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "oliver_&_company_v1": {
+          "release_date": "1988",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:child",
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_little_mermaid": {
+      "release_date": "17-11-1989",
+      "film_name": "The Little Mermaid",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_little_mermaid_v1": {
+          "release_date": "1989",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "text:flavor",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "ducktales_the_movie_treasure_of_the_lost_lamp": {
+      "release_date": "03-08-1990",
+      "film_name": "DuckTales the Movie: Treasure of the Lost Lamp",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "ducktales_the_movie_treasure_of_the_lost_lamp_v1": {
+          "release_date": "1990",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "magic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_rescuers_down_under": {
+      "release_date": "16-11-1990",
+      "film_name": "The Rescuers Down Under",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_rescuers_down_under_v1": {
+          "release_date": "1990",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:non-human",
+            "non-main:non-human",
+            "ilustration",
+"stylized",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "beauty_and_the_beast": {
+      "release_date": "22-11-1991",
+      "film_name": "Beauty and the Beast",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "beauty_and_the_beast_v1": {
+          "release_date": "1991",
+          "tags": [
+            "main:non-human",
+            "main:male",
+            "main:adult",
+            "main:human",
+            "main:female",
+            "ilustration",
+            "stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "aladdin": {
+      "release_date": "25-11-1992",
+      "film_name": "Aladdin",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "aladdin_v1": {
+          "release_date": "1992",
+          "tags": [
+            "magic",
+            "text:flavor",
+            "ilustration",
+            "realistic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_nightmare_before_christmas": {
+      "release_date": "29-10-1993",
+      "film_name": "The Nightmare Before Christmas",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_nightmare_before_christmas_v1": {
+          "release_date": "1993",
+          "tags": [
+            "ilustration",
+"stylized",
+            "main:human",
+"main:male",
+"main:adult"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_lion_king": {
+      "release_date": "19-07-2019",
+      "film_name": "The Lion King",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_lion_king_v1": {
+          "release_date": "2019",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "a_goofy_movie": {
+      "release_date": "07-04-1995",
+      "film_name": "A Goofy Movie",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "a_goofy_movie_v1": {
+          "release_date": "1995",
+          "tags": [
+            "main:non-human",
+            "main:male",
+            "main:adult",
+            "main:child",
+            "ilustration",
+            "stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "pocahontas": {
+      "release_date": "23-06-1995",
+      "film_name": "Pocahontas",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "pocahontas_v1": {
+          "release_date": "1995",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "flight",
+            "magic",
+            "non-main:non-human",
+            "ilustration",
+            "stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "toy_story": {
+      "release_date": "22-11-1995",
+      "film_name": "Toy Story",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "toy_story_v1": {
+          "release_date": "1995",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "james_and_the_giant_peach": {
+      "release_date": "12-04-1996",
+      "film_name": "James and the Giant Peach",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "james_and_the_giant_peach_v1": {
+          "release_date": "1996",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_hunchback_of_notre_dame": {
+      "release_date": "21-06-1996",
+      "film_name": "The Hunchback of Notre Dame",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_hunchback_of_notre_dame_v1": {
+          "release_date": "1996",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "flight",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "hercules": {
+      "release_date": "27-06-1997",
+      "film_name": "Hercules",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "hercules_v1": {
+          "release_date": "1997",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "flight",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "mulan": {
+      "release_date": "19-06-1998",
+      "film_name": "Mulan",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "mulan_v1": {
+          "release_date": "1998",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:non-human",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "a_bugs_life": {
+      "release_date": "25-11-1998",
+      "film_name": "A Bug's Life",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "a_bugs_life_v1": {
+          "release_date": "1998",
+          "tags": [
+            "main:non-human",
+            "main:male",
+            "main:adult",
+            "cgi",
+            "stylized",
+            "text:portfolio",
+            "non-main:non-human",
+            "non-main:female",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "dougs_1st_movie": {
+      "release_date": "26-03-1999",
+      "film_name": "Doug's 1st Movie",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "dougs_1st_movie_v1": {
+          "release_date": "1999",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:female",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "tarzan": {
+      "release_date": "18-06-1999",
+      "film_name": "Tarzan",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "tarzan_v1": {
+          "release_date": "1999",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "toy_story_2": {
+      "release_date": "24-11-1999",
+      "film_name": "Toy Story 2",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "toy_story_2_v1": {
+          "release_date": "1999",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized",
+            "text:portfolio"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "fantasia_2000": {
+      "release_date": "01-01-2000",
+      "film_name": "Fantasia 2000",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "fantasia_2000_v1": {
+          "release_date": "2000",
+          "tags": [
+            "ilustration",
+            "stylized",
+            "magic",
+            "non-main:non-human",
+            "non-main:male",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_tigger_movie": {
+      "release_date": "11-02-2000",
+      "film_name": "The Tigger Movie",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_tigger_movie_v1": {
+          "release_date": "2000",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:non-human",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "dinosaur": {
+      "release_date": "19-05-2000",
+      "film_name": "Dinosaur",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "dinosaur_v1": {
+          "release_date": "2000",
+          "tags": [
+            "cgi",
+"realistic",
+            "flight",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_emperors_new_groove": {
+      "release_date": "15-12-2000",
+      "film_name": "The Emperor's New Groove",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_emperors_new_groove_v1": {
+          "release_date": "2000",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "ilustration",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "recess_schools_out": {
+      "release_date": "16-02-2001",
+      "film_name": "Recess: School's Out",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "recess_schools_out_v1": {
+          "release_date": "2001",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "ilustration",
+"stylized",
+            "non-main:male",
+            "non-main:female",
+            "black_person"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "atlantis_the_lost_empire": {
+      "release_date": "15-06-2001",
+      "film_name": "Atlantis: The Lost Empire",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "atlantis_the_lost_empire_v1": {
+          "release_date": "2001",
+          "tags": [
+            "magic",
+            "ilustration",
+            "stylized",
+            "main:human",
+            "main:male",
+            "main:adult",
+            "non-main:human",
+            "non-main:female",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "monsters,_inc.": {
+      "release_date": "02-11-2001",
+      "film_name": "Monsters, Inc.",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "monsters,_inc._v1": {
+          "release_date": "2001",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "text:portfolio",
+            "cgi",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "return_to_never_land": {
+      "release_date": "15-02-2002",
+      "film_name": "Return to Never Land",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "return_to_never_land_v1": {
+          "release_date": "2002",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "lilo_&_stitch": {
+      "release_date": "21-06-2002",
+      "film_name": "Lilo & Stitch",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "lilo_&_stitch_v1": {
+          "release_date": "2002",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:child",
+            "text:flavor",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "spirited_away": {
+      "release_date": "20-09-2002",
+      "film_name": "Spirited Away",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "spirited_away_v1": {
+          "release_date": "2002",
+          "tags": [
+            "main:female",
+"main:human",
+"main:child",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "treasure_planet": {
+      "release_date": "27-11-2002",
+      "film_name": "Treasure Planet",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "treasure_planet_v1": {
+          "release_date": "2002",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "ilustration",
+"stylized",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_jungle_book_2": {
+      "release_date": "14-02-2003",
+      "film_name": "The Jungle Book 2",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_jungle_book_2_v1": {
+          "release_date": "2003",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "main:non-human",
+"main:male",
+"main:adult",
+            "text:flavor",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "piglets_big_movie": {
+      "release_date": "21-03-2003",
+      "film_name": "Piglet's Big Movie",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "piglets_big_movie_v1": {
+          "release_date": "2003",
+          "tags": [
+            "text:flavor",
+            "ilustration",
+"stylized",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_lizzie_mcguire_movie": {
+      "release_date": "02-05-2003",
+      "film_name": "The Lizzie McGuire Movie",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_lizzie_mcguire_movie_v1": {
+          "release_date": "2003",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "text:flavor",
+            "live_action"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "finding_nemo": {
+      "release_date": "30-05-2003",
+      "film_name": "Finding Nemo",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "finding_nemo_v1": {
+          "release_date": "2003",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:non-human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "brother_bear": {
+      "release_date": "01-11-2003",
+      "film_name": "Brother Bear",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "brother_bear_v1": {
+          "release_date": "2003",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:non-human",
+"main:male",
+"main:child",
+            "ilustration",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "teachers_pet": {
+      "release_date": "16-01-2004",
+      "film_name": "Teacher's Pet",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "teachers_pet_v1": {
+          "release_date": "2004",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:child",
+            "non-main:female",
+            "magic",
+            "flight",
+            "ilustration",
+            "stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "home_on_the_range": {
+      "release_date": "02-04-2004",
+      "film_name": "Home on the Range",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "home_on_the_range_v1": {
+          "release_date": "2004",
+          "tags": [
+            "main:non-human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_incredibles": {
+      "release_date": "05-11-2004",
+      "film_name": "The Incredibles",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_incredibles_v1": {
+          "release_date": "2004",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "main:human",
+"main:female",
+"main:adult",
+            "main:female",
+"main:human",
+"main:child",
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:male",
+            "flight",
+            "non-main:female",
+            "text:flavor",
+            "text:portfolio"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "poohs_heffalump_movie": {
+      "release_date": "11-02-2005",
+      "film_name": "Pooh's Heffalump Movie",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "poohs_heffalump_movie_v1": {
+          "release_date": "2005",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "ilustration",
+"stylized",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "howls_moving_castle": {
+      "release_date": "10-06-2005",
+      "film_name": "Howl's Moving Castle",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "howls_moving_castle_v1": {
+          "release_date": "2005",
+          "tags": [
+            "magic",
+            "REVIEW"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "valiant": {
+      "release_date": "19-08-2005",
+      "film_name": "Valiant",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "valiant_v1": {
+          "release_date": "2005",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "text:flavor",
+            "text:portfolio"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "chicken_little": {
+      "release_date": "04-11-2005",
+      "film_name": "Chicken Little",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "chicken_little_v1": {
+          "release_date": "2005",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:child",
+            "cgi",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_wild": {
+      "release_date": "14-04-2006",
+      "film_name": "The Wild",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_wild_v1": {
+          "release_date": "2006",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "cgi",
+"realistic",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "cars": {
+      "release_date": "09-06-2006",
+      "film_name": "Cars",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "cars_v1": {
+          "release_date": "2006",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "cgi",
+            "stylized",
+            "non-main:female",
+            "non-main:male",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "meet_the_robinsons": {
+      "release_date": "30-03-2007",
+      "film_name": "Meet the Robinsons",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "meet_the_robinsons_v1": {
+          "release_date": "2007",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:non-human",
+            "cgi",
+"stylized",
+            "non-main:non-human",
+            "non-main:male",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "ratatouille": {
+      "release_date": "29-06-2007",
+      "film_name": "Ratatouille",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "ratatouille_v1": {
+          "release_date": "2007",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "text:flavor",
+            "cgi",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "enchanted": {
+      "release_date": "21-11-2007",
+      "film_name": "Enchanted",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "enchanted_v1": {
+          "release_date": "2007",
+          "tags": [
+            "live_action",
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "wall-e": {
+      "release_date": "27-06-2008",
+      "film_name": "WALL-E",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "wall-e_v1": {
+          "release_date": "2008",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized",
+            "non-main:female",
+            "non-main:non-human",
+            "text:portfolio",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "bolt": {
+      "release_date": "21-11-2008",
+      "film_name": "Bolt",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "bolt_v1": {
+          "release_date": "2008",
+          "tags": [
+            "main:non-human",
+            "main:male",
+            "main:child",
+            "cgi",
+            "stylized",
+            "text:portfolio",
+            "non-main:non-human",
+            "non-main:female",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "up": {
+      "release_date": "29-05-2009",
+      "film_name": "Up",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "up_v1": {
+          "release_date": "2009",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized",
+            "non-main:male",
+            "non-main:non-human",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "ponyo": {
+      "release_date": "14-08-2009",
+      "film_name": "Ponyo",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "ponyo_v1": {
+          "release_date": "2009",
+          "tags": [
+            "main:female",
+"main:human",
+"main:child"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "a_christmas_carol": {
+      "release_date": "06-11-2009",
+      "film_name": "A Christmas Carol",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "a_christmas_carol_v1": {
+          "release_date": "2009",
+          "tags": [
+            "main:human",
+            "main:male",
+            "main:adult",
+            "cgi",
+            "realistic",
+            "magic",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_princess_and_the_frog": {
+      "release_date": "11-12-2009",
+      "film_name": "The Princess and the Frog",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_princess_and_the_frog_v1": {
+          "release_date": "2009",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "toy_story_3": {
+      "release_date": "18-06-2010",
+      "film_name": "Toy Story 3",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "toy_story_3_v1": {
+          "release_date": "2010",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized",
+            "text:portfolio",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "tales_from_earthsea": {
+      "release_date": "13-08-2010",
+      "film_name": "Tales from Earthsea",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "tales_from_earthsea_v1": {
+          "release_date": "2010",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:non-human",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "tangled": {
+      "release_date": "24-11-2010",
+      "film_name": "Tangled",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "tangled_v1": {
+          "release_date": "2010",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:non-human",
+            "cgi",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "gnomeo_&_juliet": {
+      "release_date": "11-02-2011",
+      "film_name": "Gnomeo & Juliet",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "gnomeo_&_juliet_v1": {
+          "release_date": "2011",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "mars_needs_moms": {
+      "release_date": "11-03-2011",
+      "film_name": "Mars Needs Moms",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "mars_needs_moms_v1": {
+          "release_date": "2011",
+          "tags": [
+            "cgi",
+"realistic",
+            "main:human",
+"main:male",
+"main:child",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "cars_2": {
+      "release_date": "24-06-2011",
+      "film_name": "Cars 2",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "cars_2_v1": {
+          "release_date": "2011",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "cgi",
+            "stylized",
+            "text:portfolio",
+            "non-main:female",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "winnie_the_pooh": {
+      "release_date": "15-07-2011",
+      "film_name": "Winnie the Pooh",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "winnie_the_pooh_v1": {
+          "release_date": "2011",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_secret_world_of_arrietty": {
+      "release_date": "17-02-2012",
+      "film_name": "The Secret World of Arrietty",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_secret_world_of_arrietty_v1": {
+          "release_date": "2012",
+          "tags": [
+            "main:female",
+"main:human",
+"main:child",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "brave": {
+      "release_date": "22-06-2012",
+      "film_name": "Brave",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "brave_v1": {
+          "release_date": "2012",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "cgi",
+"stylized",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "frankenweenie": {
+      "release_date": "05-10-2012",
+      "film_name": "Frankenweenie",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "frankenweenie_v1": {
+          "release_date": "2012",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "text:portfolio",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "wreck-it_ralph": {
+      "release_date": "02-11-2012",
+      "film_name": "Wreck-It Ralph",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "wreck-it_ralph_v1": {
+          "release_date": "2012",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:male",
+            "cgi",
+"stylized",
+            "non-main:non-human",
+            "non-main:non-human",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "monsters_university": {
+      "release_date": "21-06-2013",
+      "film_name": "Monsters University",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "monsters_university_v1": {
+          "release_date": "2013",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized",
+            "non-main:male",
+            "non-main:female",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "planes": {
+      "release_date": "09-08-2013",
+      "film_name": "Planes",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "planes_v1": {
+          "release_date": "2013",
+          "tags": [
+            "cgi",
+"stylized",
+            "main:non-human",
+"main:male",
+"main:adult",
+            "flight",
+            "text:portfolio",
+            "non-main:male",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "frozen": {
+      "release_date": "27-11-2013",
+      "film_name": "Frozen",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "frozen_v1": {
+          "release_date": "2013",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:female",
+            "non-main:male",
+            "non-main:non-human",
+            "magic",
+            "text:portfolio"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_wind_rises": {
+      "release_date": "21-02-2014",
+      "film_name": "The Wind Rises",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_wind_rises_v1": {
+          "release_date": "2014",
+          "tags": [
+            "non-main:female",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "planes_fire_&_rescue": {
+      "release_date": "18-07-2014",
+      "film_name": "Planes: Fire & Rescue",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "planes_fire_&_rescue_v1": {
+          "release_date": "2014",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "text:flavor",
+            "cgi",
+"stylized",
+            "non-main:male",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "big_hero_6": {
+      "release_date": "07-11-2014",
+      "film_name": "Big Hero 6",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "big_hero_6_v1": {
+          "release_date": "2014",
+          "tags": [
+            "main:non-human",
+            "cgi",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "strange_magic": {
+      "release_date": "23-01-2015",
+      "film_name": "Strange Magic",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "strange_magic_v1": {
+          "release_date": "2015",
+          "tags": [
+            "cgi",
+"stylized",
+            "non-main:male",
+            "non-main:male",
+            "magic",
+            "text:flavor",
+            "text:portfolio"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "inside_out": {
+      "release_date": "19-06-2015",
+      "film_name": "Inside Out",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "inside_out_v1": {
+          "release_date": "2015",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "main:human",
+"main:male",
+"main:adult",
+            "text:portfolio",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_good_dinosaur": {
+      "release_date": "25-11-2015",
+      "film_name": "The Good Dinosaur",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_good_dinosaur_v1": {
+          "release_date": "2015",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:human",
+"main:male",
+"main:child",
+            "text:portfolio",
+            "cgi",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "zootopia": {
+      "release_date": "04-03-2016",
+      "film_name": "Zootopia",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "zootopia_v1": {
+          "release_date": "2016",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:non-human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "cgi",
+"stylized",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "finding_dory": {
+      "release_date": "17-06-2016",
+      "film_name": "Finding Dory",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "finding_dory_v1": {
+          "release_date": "2016",
+          "tags": [
+            "main:non-human",
+"main:female",
+"main:adult",
+            "non-main:non-human",
+            "cgi",
+"stylized",
+            "text:flavor"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "moana": {
+      "release_date": "23-11-2016",
+      "film_name": "Moana",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "moana_v1": {
+          "release_date": "2016",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:non-human",
+            "magic",
+            "non-main:male",
+            "text:portfolio",
+            "cgi",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "cars_3": {
+      "release_date": "16-06-2017",
+      "film_name": "Cars 3",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "cars_3_v1": {
+          "release_date": "2017",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "cgi",
+            "stylized",
+            "non-main:female",
+            "non-main:male"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "coco": {
+      "release_date": "22-11-2017",
+      "film_name": "Coco",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "coco_v1": {
+          "release_date": "2017",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "cgi",
+            "stylized",
+            "non-main:female",
+            "non-main:male",
+            "non-main:non-human",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "incredibles_2": {
+      "release_date": "15-06-2018",
+      "film_name": "Incredibles 2",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "incredibles_2_v1": {
+          "release_date": "2018",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "main:human",
+"main:female",
+"main:adult",
+            "main:human",
+"main:male",
+"main:child",
+            "main:female",
+"main:human",
+"main:child",
+            "cgi",
+"stylized",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "ralph_breaks_the_internet": {
+      "release_date": "21-11-2018",
+      "film_name": "Ralph Breaks the Internet",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "ralph_breaks_the_internet_v1": {
+          "release_date": "2018",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "main:female",
+"main:human",
+"main:child",
+            "non-main:male",
+            "non-main:female",
+            "cgi",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "mary_poppins_returns": {
+      "release_date": "19-12-2018",
+      "film_name": "Mary Poppins Returns",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "mary_poppins_returns_v1": {
+          "release_date": "2018",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:non-human",
+            "flight",
+            "ilustration",
+"realistic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "toy_story_4": {
+      "release_date": "21-06-2019",
+      "film_name": "Toy Story 4",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "toy_story_4_v1": {
+          "release_date": "2019",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "frozen_ii": {
+      "release_date": "22-11-2019",
+      "film_name": "Frozen II",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "frozen_ii_v1": {
+          "release_date": "2019",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:female",
+            "non-main:male",
+            "non-main:non-human",
+            "magic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "spies_in_disguise": {
+      "release_date": "25-12-2019",
+      "film_name": "Spies in Disguise",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "spies_in_disguise_v1": {
+          "release_date": "2019",
+          "tags": [
+            "main:non-human",
+"main:male",
+"main:adult",
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:non-human",
+            "non-main:male",
+            "non-main:female",
+            "cgi",
+"stylized",
+            "black_person"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "onward": {
+      "release_date": "06-03-2020",
+      "film_name": "Onward",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "onward_v1": {
+          "release_date": "2020",
+          "tags": [
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:female",
+            "non-main:male",
+            "magic",
+            "cgi",
+"realistic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "raya_and_the_last_dragon": {
+      "release_date": "05-03-2021",
+      "film_name": "Raya and the Last Dragon",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "raya_and_the_last_dragon_v1": {
+          "release_date": "2021",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:non-human",
+            "magic"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "rons_gone_wrong": {
+      "release_date": "22-10-2021",
+      "film_name": "Ron's Gone Wrong",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "rons_gone_wrong_v1": {
+          "release_date": "2021",
+          "tags": [
+            "cgi",
+"stylized",
+            "main:human",
+"main:male",
+"main:child",
+            "non-main:female",
+            "non-main:non-human",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "encanto": {
+      "release_date": "24-11-2021",
+      "film_name": "Encanto",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "encanto_v1": {
+          "release_date": "2021",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female",
+            "non-main:non-human",
+            "magic",
+            "flight"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "the_bobs_burgers_movie": {
+      "release_date": "27-05-2022",
+      "film_name": "The Bob's Burgers Movie",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "the_bobs_burgers_movie_v1": {
+          "release_date": "2022",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:female",
+            "non-main:male",
+            "text:flavor",
+            "ilustration",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "lightyear": {
+      "release_date": "17-06-2022",
+      "film_name": "Lightyear",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "lightyear_v1": {
+          "release_date": "2022",
+          "tags": [
+            "main:human",
+"main:male",
+"main:adult",
+            "cgi",
+"stylized"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "strange_world": {
+      "release_date": "23-11-2022",
+      "film_name": "Strange World",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "strange_world_v1": {
+          "release_date": "2022",
+          "tags": [
+            "cgi",
+"stylized",
+            "main:human",
+"main:male",
+"main:adult",
+            "non-main:non-human",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "elemental": {
+      "release_date": "16-06-2023",
+      "film_name": "Elemental",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "elemental_v1": {
+          "release_date": "2023",
+          "tags": [
+            "cgi",
+"stylized",
+            "main:human",
+"main:male",
+"main:adult",
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "non-main:female"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    },
+    "wish": {
+      "release_date": "22-11-2023",
+      "film_name": "Wish",
+      "curiosities": [],
+      "observations": [],
+      "posters": {
+        "wish_v1": {
+          "release_date": "2023",
+          "tags": [
+            "main:human",
+"main:female",
+"main:adult",
+            "non-main:male",
+            "magic",
+            "flight",
+            "cgi",
+"stylized",
+            "text:flavor",
+            "non-main:non-human"
+          ],
+          "curiosities": [],
+          "observations": []
+        }
+      }
+    }
+  },
+  "tags": {
+    "magic": {
+      "description": "Contiene magia o su utilizaci\u00c3\u00b3n.",
+      "color": "#00ff00"
+    },
+    "ilustration": {
+      "description": "El poster es una ilustración",
+      "color": "#18d68d"
+    },
+    "cgi": {
+      "description": "El poster es una imagen generada por computadora",
+      "color": "#669933"
+    },
+    "live_action": {
+      "description": "El poster es en live-action",
+      "color": "#cc9966"
+    },
+    "stylized": {
+      "description": "El poster tiene un estilo poco realista.",
+      "color": "#ff6600"
+    },
+    "realistic": {
+      "description": "El poster tiene un estilo realista.",
+      "color": "#ff9900"
+    },
+    "text:flavor": {
+      "description": "Contiene una frase que no es parte del t\u00c3\u00adtulo, en este caso es de <FIX:sabor>.",
+      "color": "#0000ff"
+    },
+    "text:promotion": {
+      "description": "Contiene una frase que no pertenece al t\u00c3\u00adtulo de la pel\u00c3\u00adcula, en este caso es una promoci\u00c3\u00b3n de una tecnolog\u00c3\u00ada o compa\u00c3\u00b1\u00c3\u00ada.",
+      "color": "#cc3399"
+    },
+    "text:portfolio": {
+      "description": "Contiene una frase que no pertenece al t\u00c3\u00adtulo de la pel\u00c3\u00adcula, en este caso menciona los logros de los creadores.",
+      "color": "#cc9933"
+    },
+    "main:female": {
+      "description": "El personaje principal es femenino",
+      "color": "#9e369b"
+    },
+    "main:male": {
+      "description": "El personaje principal es femenino",
+      "color":"#061dc9"
+    },
+    "main:human": {
+      "description": "El personaje principal es humano",
+      "color": "#2eb327" 
+    },
+    "main:non-human": {
+      "description": "El personaje principal no es humano",
+      "color": "#cc3300"
+    },
+    "main:child": {
+      "description": "El personaje principal parece ser un infante.",
+      "color": "#6600cc"
+    },
+    "main:adult": {
+      "description": "El personaje principal parece ser un adulto.",
+      "color": "#ff3366"
+    },
+    "non-main:non-human": {
+      "description": "Contiene uno o más personajes secundarios que no son humanos.",
+      "color": "#993366"
+    },
+    "non-main:human": {
+      "description": "Contiene uno o más personajes secundarios que son humanos.",
+      "color": "#ffcc99"
+    },
+    "non-main:female": {
+      "description": "Contiene uno o más personajes secundarios de género femeninos.",
+      "color": "#a10030"
+    },
+    "non-main:male": {
+      "description": "Contiene uno o más personajes secundarios de género masculino.",
+      "color": "#3366cc"
+    },
+    "flight": {
+      "description": "Contiene representaci\u00c3\u00b3n de personajes volando.",
+      "color": "#6666cc"
+    },
+    "black_person": {
+      "description": "Aparece una persona negra en el poster.",
+      "color": "#4caf50"
+    }
+  },
+  "disney_eras": {
+    "golden_age": {
+      "period_start": 1937,
+      "period_end": 1942,
+      "display_name": "Era Dorada",
+      "notes": "<h2 class=\"text-2xl font-bold block justify-center mb-4\">La Edad Dorada:</h2><p class=\"mb-4\">El período que comienza con Blancanieves y los siete enanitos y termina con Bambi se conoce comúnmente como la 'Edad de Oro' de la producción cinematográfica de Disney. Todas estas películas fueron supervisadas por Walt Disney y establecieron los estudios de Walt Disney como líderes en la animación cinematográfica. Sin embargo, el término 'Edad de Oro' puede resultar engañoso. A excepción de Blancanieves y Dumbo, en términos de éxito financiero, la 'Edad de Oro' no fue tan dorada. De hecho, Dumbo originalmente iba a ser solo un cortometraje, pero Walt decidió convertirlo en un largometraje completo para intentar recuperarse de las pérdidas sufridas con Fantasía.</p><p class=\"mb-4\">Aunque las películas de Disney se consideran familiares y optimistas, una característica de esta era es su oscuridad. Observa algunas escenas que encarnan el lado más oscuro de sus respectivas películas:</p><p class=\"mb-4\">A pesar de ser algo inquietantes y quizás perturbadoras, escenas como estas suelen estar entre dos escenas más alegres y positivas, creando un cambio de humor extremo que involucra todas las emociones de la audiencia. Este estilo de animación también le valió a la 'Edad de Oro' el apodo de 'La Era del Alquitrán y el Azúcar', debido a sus saltos dramáticos de lo oscuro a lo 'dulce'. En muchos sentidos, estas películas pusieron a prueba los límites de la realización cinematográfica. Esta era también incluye la primera y única vez que los senos se mostraron abiertamente en una película de Disney, presente en Fantasía.</p><p class=\"mb-4\">Estas cinco películas, aunque no fueron las más exitosas de Disney, iniciaron algunas tendencias importantes en la producción cinematográfica de la compañía. Blancanieves fue la primera de las películas basadas en cuentos de hadas por las que Disney es conocido, Pinocho comenzó el concepto de tomar literatura conocida y convertirla en una película apta para niños y Bambi exploró las posibilidades de hacer una película desde la perspectiva de un animal. Otras características de Disney, como villanos exagerados, el uso de música y compañeros cómicos destacados, se introdujeron por primera vez en la Edad de Oro.</p>"
+    },
+    "wartime": {
+      "period_start": 1943,
+      "period_end": 1949,
+      "display_name": "Era de Guerra",
+      "notes": "<h2 class=\"text-2xl font-bold block justify-center mb-4\">La Era de Guerra:</h2><p class=\"mb-4\">Con la llegada de la Segunda Guerra Mundial, los Estudios Disney se enfrentaron a presupuestos más bajos y equipos más pequeños de animadores disponibles para sus películas. Esta era, también conocida como la 'Era de Paquetes', presenta seis películas que están compuestas por varios cortometrajes cada una. Se consideran algunas de las películas más oscuras de la historia de Disney y no fueron extremadamente populares. Algunos fanáticos ni siquiera consideran esto una era en la producción cinematográfica de Disney debido a la falta de consistencia y tono en cada uno de los cortos, y no creen que una compilación de cortometrajes pueda considerarse una 'era cinematográfica'. Sin embargo, es interesante ver cómo la Segunda Guerra Mundial afectó incluso a los Estudios Walt Disney, y por eso se incluye en esta lista.</p><p class=\"mb-4\">Además de estas seis películas, los Estudios Disney también produjeron propaganda de guerra, que incluía comerciales antinazis y folletos que alentaban a los ciudadanos a apoyar la guerra y comprar bonos de guerra. Aquí tienes algunos ejemplos:</p>"
+    },
+    "silver_age": {
+      "period_start": 1950,
+      "period_end": 1967,
+      "display_name": "Era Plateada",
+      "notes": "<h2 class=\"text-2xl font-bold block justify-center mb-4\">La Edad de Plata:</h2><p class=\"mb-4\">También conocida como la 'Era de la Restauración', la Edad de Plata marca el regreso de Disney a la producción de películas de largometraje con grandes presupuestos. Esta era se caracteriza por su hermosa animación con fondos ornamentados y colores suaves. Estas películas tienen un ambiente fuera de este mundo y hacen que incluso los entornos cotidianos parezcan mágicos. La animación de fondo en La bella durmiente, por ejemplo, fue diseñada para parecerse a una pintura. Las imágenes a continuación ofrecen una visión de este estilo de animación:</p><p class=\"mb-4\">La Edad de Plata también continúa con las tendencias establecidas por Disney en la Edad de Oro, dando el siguiente paso en la narración de cuentos de hadas con La Cenicienta, La bella durmiente y La espada en la piedra. Alicia en el país de las maravillas y Peter Pan continúan con el concepto establecido por Pinocho, ya que ambos eran cuentos muy apreciados en la literatura. Por último, La dama y el vagabundo, 101 dálmatas y El libro de la selva imitan la tendencia iniciada por Bambi (aunque se puede argumentar que El libro de la selva se centra en Mowgli más que en los animales, aún ofrece una perspectiva desde el punto de vista de los animales). Aunque algunas de estas películas no fueron bien recibidas por la crítica, fueron disfrutadas por el público y, en su mayoría, fueron financieramente exitosas.</p><p class=\"mb-4\">La muerte de Walt Disney marcó el final de la Edad de Plata, siendo El libro de la selva la última película en la que trabajó personalmente antes de fallecer.</p>"
+    },
+    "bronze_age": {
+      "period_start": 1968,
+      "period_end": 1977,
+      "display_name": "Era de Bronce",
+      "notes": "<h2 class=\"text-2xl font-bold block justify-center mb-4\">La Edad de Bronce:</h2><p class=\"mb-4\">La muerte de Walt Disney sumió a los Estudios Walt Disney en la Edad de Bronce. También conocida como la 'Era Moderna', esta fue una época de declive para Disney. Un período de realización cinematográfica de prueba y error, los Estudios Disney lucharon por encontrar su camino sin la guía e imaginación de Walt. La Edad de Bronce también se apartó de los cuentos de hadas y se centró más en historias más oscuras y seculares.</p><p class=\"mb-4\">Durante este tiempo, hubo un cambio de las películas con tinta a mano al uso de la xerografía. Esto ahorró tiempo y dinero, permitiendo a los animadores imprimir directamente sus dibujos en las celdas. Sin embargo, este proceso tenía sus limitaciones y al principio solo eran posibles líneas negras usando este método. Como resultado, las películas de esta era son conocidas como 'Películas Rayadas' debido a las líneas negras intensintensas en su animación.</p><p class=\"mb-4\">En estas escenas, puedes hacerte una idea de cómo las líneas negras eran una característica de las películas:</p><p class=\"mb-4\">La grandeza y escala de estas películas eran inferiores a las de las películas anteriores de Disney, y la era tenía un ambiente muy introvertido. No exploraba temas más grandes tan bien como otras películas de Disney, y las películas de esta era no dejaron una impresión duradera en el público. Winnie the Pooh es la única excepción a esto, reflexionando sobre la infancia y las fantasías que la rodean. Sin embargo, esta era comenzó a sentar las bases para una era cinematográfica nueva y mejor.</p>"
+    },
+    "the_dark_age": {
+      "period_start": 1978,
+      "period_end": 1988,
+      "display_name": "Era Oscura",
+      "notes": "<h2 class=\"text-2xl font-bold block justify-center mb-4\">La Edad Oscura:</h2><p class=\"mb-4\">También conocida como la 'Era de la Restauración', la Edad de Plata marca el regreso de Disney a la producción de películas de largometraje con grandes presupuestos. Esta era se caracteriza por su hermosa animación con fondos ornamentados y colores suaves. Estas películas tienen un ambiente fuera de este mundo y hacen que incluso los entornos cotidianos parezcan mágicos. La animación de fondo en La bella durmiente, por ejemplo, fue diseñada para parecerse a una pintura. Las imágenes a continuación ofrecen una visión de este estilo de animación:</p><p class=\"mb-4\">La Edad de Plata también continúa con las tendencias establecidas por Disney en la Edad de Oro, dando el siguiente paso en la narración de cuentos de hadas con La Cenicienta, La bella durmiente y La espada en la piedra. Alicia en el país de las maravillas y Peter Pan continúan con el concepto establecido por Pinocho, ya que ambos eran cuentos muy apreciados en la literatura. Por último, La dama y el vagabundo, 101 dálmatas y El libro de la selva imitan la tendencia iniciada por Bambi (aunque se puede argumentar que El libro de la selva se centra en Mowgli más que en los animales, aún ofrece una perspectiva desde el punto de vista de los animales). Aunque algunas de estas películas no fueron bien recibidas por la crítica, fueron disfrutadas por el público y, en su mayoría, fueron financieramente exitosas.</p><p class=\"mb-4\">La muerte de Walt Disney marcó el final de la Edad de Plata, siendo El libro de la selva la última película en la que trabajó personalmente antes de fallecer.</p>"
+    },
+    "disney_renaissance": {
+      "period_start": 1989,
+      "period_end": 1999,
+      "display_name": "El Renacimiento de Disney",
+      "notes": "<h2 class=\"text-2xl font-bold block justify-center mb-4\">El Renacimiento de Disney:</h2><p class=\"mb-4\">Quizás la era más ampliamente aceptada en la producción cinematográfica de Disney, el Renacimiento de Disney se considera la cima de las películas de Disney. Tuvo un gran éxito en taquilla, con películas que volvieron a la narración de cuentos de hadas musicales por la que Disney era conocido.</p><p class=\"mb-4\">Con La sirenita, Disney había logrado el mejor resultado utilizando la xerografía. También fue la primera película de cuentos de hadas de Disney en casi veinte años. Disney también comenzó con la fórmula de Broadway, con la idea de que cualquiera de las películas que utilizaran esta idea podría traducirse fácilmente en un musical de Broadway (cuatro de las películas de este período lo han hecho). También fueron las primeras películas en las que trabajaron Howard Ashman y Alan Menken, ambos de los cuales demostrarían ser genios de Disney y un elemento clave en el éxito musical de Disney. Todas las películas de esta era se consideran grandes éxitos de taquilla.</p><p class=\"mb-4\">Además, esta era alberga muchas de mis películas favoritas. Aquí tienes algunas escenas tomadas de las películas del Renacimiento de Disney:</p><p class=\"mb-4\">También en este momento, Pixar comenzó a hacer películas animadas digitalmente, con Toy Story, Bichos: Una aventura en miniatura y Toy Story 2, todas lanzadas durante el período del Renacimiento de Disney. Las películas de Pixar comenzaron a rivalizar con las de los Estudios Disney con sus tramas complejas y profundas y su fantástica animación digital.</p>"
+    },
+    "post_renaissance": {
+      "period_start": 2000,
+      "period_end": 2009,
+      "display_name": "Post-Renacimiento",
+      "notes": "<h2 class=\"text-2xl font-bold block justify-center mb-4\">La Post-Renovación:</h2><p class=\"mb-4\">La 'Era Post-Renovación' se caracteriza por la ausencia de un tema común como se ve en eras anteriores de la producción cinematográfica de Disney. Lo que realmente define este período es que los Estudios Disney intentaron encontrar un nuevo método de contar historias, al igual que Pixar.</p><p class=\"mb-4\">Con la excepción de Lilo & Stitch, las películas de esta época no tuvieron mucho éxito en taquilla y no fueron ampliamente populares. Sin embargo, parte de este moderado éxito se debió a grandes franquicias cinematográficas como Harry Potter y El Señor de los Anillos que atraían a la audiencia y restaban importancia a otras películas que se lanzaban.</p><p class=\"mb-4\">Dinosaurio fue el primer intento de Disney en la animación CGI. Aunque a menudo se pasa por alto, Dinosaurio despertó el interés de Disney en la animación CGI que se ha utilizado en años recientes para crear películas inmensamente populares para la compañía. Esta era fue básicamente un período de transición para Disney, mientras pasaba de la animación tradicional a la CGI y de la narración antigua a la nueva narración.</p>"
+    },
+    "revival_era": {
+      "period_start": 2010,
+      "period_end": 2023,
+      "display_name": "La Era de Resurrección",
+      "notes": "<h2 class=\"text-2xl font-bold block justify-center mb-4\">La Era de Revitalización:</h2><p class=\"mb-4\">La era actual de la producción cinematográfica de Disney en la que nos encontramos, la 'Era de Revitalización', también se llama el 'Segundo Renacimiento de Disney'. Con John Lasseter tomando el control de la división de animación en 2006 y la eventual adquisición de Pixar por parte de Disney, las piezas comenzaron nuevamente a encajar. El lanzamiento en 2009 de La princesa y el sapo fue elogiado por su regreso a la animación original de Disney, recaudando casi 270 millones de dólares en todo el mundo. Aunque La princesa y el sapo se realizó con animación tradicional, Disney decidió probar la animación CGI nuevamente con su próxima película, Enredados. Esta vez, combinaron CGI con sus técnicas de animación tradicional, y el resultado fue una película crítica y financieramente exitosa. Con el lanzamiento de Enredados, Disney y la audiencia se dieron cuenta de que estaban nuevamente (como con el Renacimiento de Disney) en medio de algo grandioso. Aunque Winnie the Pooh solo obtuvo ganancias modestas, fue la película mejor calificada de 2011 y fue seguida por la inmensamente popular ¡Rompe Ralph!.</p><p class=\"mb-4\">La Era de Revitalización alcanzó nuevas alturas con el lanzamiento de Frozen, la película de animación más taquillera de todos los tiempos, recaudando más de 1.2 mil millones de dólares en todo el mundo. También se llevó a casa premios de la Academia a la Mejor Canción Original y la Mejor Película Animada, entre otros honores que recibió la película. Grandes héroes se lanzó en 2014 con un 93% de audiencia que dijo disfrutar de la película, convirtiéndola en la película mejor calificada por la audiencia de esta era.</p>"
+    }
+  },
+  "filters":{
+    "sexo":{
+      "main":{"related_tags":["main:female", "non-main:female"],"color":"#a10a4e","name":"mujer"},
+      "secondary":{"related_tags":["main:male", "non-main:male"],"color":"#2f0b8a","name":"hombre"},
+      "representation": "Sexo"
+    },
+    "color de piel":{
+      "main":{"related_tags":["black_person"], "color":"#0e2601","name":"persona negra"},
+      "representation": "Color de Piel"
+    },
+    "estilo":{
+      "main":{"related_tags":["stylized"], "color":"#b7bd0b","name":"estilizado"},
+      "secondary":{"related_tags":["realistic"], "color":"#ff0516","name":"realista"},
+      "representation": "Estilo"
+    },
+    "tecnica_de_animacion":{
+      "mani":{"related_tags":["cgi"], "color":"#15ff00","name":"cgi"},
+      "secondary":{"related_tags":["ilustration"], "color":"#ff6200","name":"ilustracion"},
+      "representation": "Técnica de Animación"
+    }
+  }
+}

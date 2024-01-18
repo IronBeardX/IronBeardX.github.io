@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="IronBeardX" />
+  <meta name="description" content="A data journalism article about Disney movie posters, exploring their impact and artistic significance.">
+  <link rel="icon" href="img/icon.png" alt="Site Icon"/>
+
+  <title>Disney Poster Study</title>
+
+  <link rel="stylesheet" href="css/styles.css">
+
+</head>
+<body>
+  <section class="min-h-screen flex flex-col items-center justify-center bg-disney-collage text-white">
+    <h1 class="text-6xl font-bold font-waltograph mt-8 relative top-24">Disney: </h1>
+    <h2 class="text-2xl font-sans mt-6 relative top-20">Su Audiencia, Sus Posters</h2>
+  </section>
+
+  <section class="min-h-screen bg-gray-100 p-8 px-40">
+    <p class="mb-4">
+      Por décadas, las películas de Disney han tejido un tapiz de encanto, convirtiéndose en una fuerza atemporal e influyente en la infancia de las personas de todo el mundo. Desde la magia de la transformación de Cenicienta hasta las aventuras épicas de Simba en las Tierras del Orgullo, "Disney Pictures" ha creado narrativas que trascienden generaciones. En este artículo, nos embarcamos en un viaje visual a través del corazón de la narración de Disney: sus carteles de películas.
+    </p>
+    <p class="mb-4">
+      Más allá de ser meras herramientas promocionales, los carteles de películas de Disney son faros visuales, que llaman a las audiencias a mundos mágicos y crean impresiones duraderas. Estas imágenes icónicas no son solo activos de marketing; son portales a los sueños y aspiraciones de millones.
+    </p>
+    <p class="mb-4">
+      Mientras nos adentramos en el reino artístico de los carteles de películas de Disney, analizaremos su papel en el fenómeno cultural más amplio que rodea a las películas de Disney. Estos carteles no son imágenes estáticas, sino narradores dinámicos por derecho propio, que ofrecen un vistazo al alma de cada película y evocan una nostalgia que abarca generaciones.
+    </p>
+    <p class="mb-4">
+      Sin embargo, esta exploración no estaría completa sin reconocer las complejidades dentro de la narrativa de Disney. El estudio, aunque celebrado por sus encantadores cuentos, no ha estado exento de controversias. En los últimos años, las discusiones sobre el racismo, el sexismo y el panorama en evolución de la "conciencia social" han coloreado la percepción de Disney Pictures. Examinaremos críticamente cómo estas controversias se manifiestan en la narración del estudio y, a su vez, influyen en el lenguaje visual de sus carteles de películas.
+    </p>
+  </section>
+
+  <section class = "m-1 bg-white-100 border border-gray-300 rounded-md" >
+    <div class="sticky top-0 bg-gray-100 border border-black rounded-md pb-1">
+			<Center>
+      	<label for="era_select" class="block text-sm font-medium text-gray-700">Select an Item:</label>
+      	<select name="eraSelect" id="era_select" class="block mt-1 p-2 border border-gray-300 rounded-md"></select>
+			</Center>
+    </div>
+    <canvas id="first_chart" class="block max-h-chart"></canvas>
+		<div id="era_text" class="p-8 px-40">
+      <div id="golden_age">
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Generalidades: </h2>
+        <p class="mb-4">
+          La Era Dorada de Disney, que abarca desde 1937 hasta 1942, representa el período fundacional que consolidó a Walt Disney Studios como pioneros en la animación cinematográfica. Esta era produjo un total de 7 películas, todas supervisadas personalmente por Walt Disney.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Estilo Visual: </h2>
+        <p class="mb-4">
+          La ilustración toma el centro del escenario en esta era, con 5 de las 7 películas que emplean representaciones artísticas dibujadas a mano en sus carteles. El enfoque estilizado, con 5 instancias, contribuye a un lenguaje visual caprichoso y fantástico, alineándose con las narrativas encantadoras características de las primeras obras de Disney.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Personajes y Temas: </h2>
+        <p class="mb-4">
+          Los personajes principales presentan predominantemente hombres y humanos, mostrando un equilibrio entre los protagonistas infantiles y adultos. En particular, los personajes principales no humanos, presentes en 3 instancias, destacan la amplitud imaginativa de la narración de Disney durante esta era. El vuelo, un tema que denota personajes en el aire, se representa sutilmente una vez, agregando un elemento de maravilla a la narrativa visual.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Utilización de Etiquetas: </h2>
+        <p class="mb-4">
+          La magia, un elemento esencial de la narración de Disney, se integra sutilmente en una película. El uso de texto en carteles, ya sea para dar sabor atmosférico, promoción o menciones de cartera, demuestra una comprensión temprana de la importancia de los elementos textuales en el marketing.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Diversidad y Representación: </h2>
+        <p class="mb-4">
+          Si bien los personajes no humanos son predominantes, la representación de las mujeres, tanto como personajes principales como no principales, es relativamente moderada. La representación negra, marcada por la etiqueta "persona_negra", está ausente en esta era.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impresión General: </h2>
+        <p>
+          La Era Dorada sienta las bases de la destreza visual de la narración de Disney, con un fuerte énfasis en las ilustraciones dibujadas a mano y los diseños estilizados. El enfoque temático de la era en la magia y los personajes imaginativos contribuye al encanto atemporal que define el legado de Disney. La ausencia de ciertas etiquetas se alinea con el contexto de la era, pero sienta las bases para futuros desarrollos en el enfoque del estudio sobre la diversidad y la representación.
+        </p>
+        <div id="goden_age_posters" class=" grid grid-cols-5 gap-4 mt-4">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/snow_white_and_the_seven_dwarfs_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/pinocchio_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/fantasia_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/dumbo_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/bambi_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/saludos_amigos_v1.jpg">
+        </div>
+      </div>
+      <div id="wartime">
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Generalidades: </h2>
+        <p class="mb-4">
+          La Era de la Guerra, que abarca desde 1943 hasta 1949, refleja un período desafiante para Disney Studios debido al impacto de la Segunda Guerra Mundial. Con 8 películas producidas durante este tiempo, el estudio enfrentó limitaciones como presupuestos más bajos y equipos de animación más pequeños, directamente influenciados por el contexto mundial de la guerra.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Estilo Visual: </h2>
+        <p class="mb-4">
+          La ilustración sigue siendo una característica dominante, con 6 de las 8 películas que utilizan representaciones artísticas dibujadas a mano en sus carteles. Sin embargo, es notable un cambio hacia el realismo, con 5 instancias de diseños realistas de carteles. Este cambio puede ser indicativo de un enfoque matizado de la narración durante un período marcado por el conflicto global.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Personajes y Temas: </h2>
+        <p class="mb-4">
+          Los personajes masculinos toman la delantera, con 6 instancias, y un enfoque notable en los protagonistas humanos. La representación de personajes principales no humanos disminuye, lo que podría reflejar un enfoque más realista en respuesta a los temas de la guerra. La presencia del vuelo permanece, lo que indica un sentido continuo de maravilla frente a la adversidad.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Utilización de Etiquetas: </h2>
+        <p class="mb-4">
+          La magia, aunque todavía presente, se vuelve menos prominente en esta era. El aumento del uso de un diseño realista se alinea con la necesidad de un lenguaje visual más relatable y realista durante la guerra. Los elementos textuales todavía se utilizan para dar sabor, contribuyendo a la narración dentro de las limitaciones de los temas relacionados con la guerra.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Diversidad y Representación: </h2>
+        <p class="mb-4">
+          La representación de las mujeres en roles no principales ve un aumento, lo que sugiere un alcance más amplio en la representación de personajes. En particular, la presencia de una persona negra en una película significa un paso temprano hacia una representación más inclusiva.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impresión General: </h2>
+        <p>
+          La Era de la Guerra refleja la adaptación de Disney a circunstancias externas desafiantes, con un cambio notable hacia el realismo en el estilo visual. El énfasis en los protagonistas masculinos y humanos se alinea con una narrativa más relatable en el contexto de un conflicto global. La participación de la era en la propaganda relacionada con la guerra contextualiza aún más los desafíos que enfrentaron los estudios de Disney durante este período de transformación.
+        </p>
+        <div id="wartime_posters" class=" grid grid-cols-5 gap-4 mt-4">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/victory_through_air_power_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_three_caballeros_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/make_mine_music_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/song_of_the_south_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/fun_and_fancy_free_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/melody_time_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/so_dear_to_my_heart_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_adventures_of_ichabod_and_mr._toad_v1.jpg">
+        </div>
+      </div>
+      <div id="silver_age">
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Generalidades: </h2>
+        <p class="mb-4">
+          La Era de Plata de Disney, que abarca desde 1950 hasta 1967, marca un resurgimiento significativo para el estudio, que vuelve a la producción de largometrajes de alto presupuesto. Esta era se distingue por su exquisita animación con fondos intrincados y colores suaves. La era incluye un total de 9 películas, y es notable por ser el último período supervisado personalmente por Walt Disney.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Estilo Visual: </h2>
+        <p class="mb-4">
+          La ilustración sigue dominando, con 6 de las 9 películas que presentan representaciones artísticas dibujadas a mano en sus carteles. Si bien los diseños estilizados y realistas coexisten, el énfasis en los fondos ornamentados y los colores suaves significa una dedicación a la belleza y sofisticación visual.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Personajes y Temas: </h2>
+        </p>
+        <p class="mb-4">
+          Los personajes masculinos persisten como protagonistas prominentes, con 6 instancias, acompañados de una representación equilibrada de personajes principales infantiles y adultos. El regreso de personajes principales no humanos sugiere un renacimiento de la narración fantástica. La presencia del vuelo permanece, contribuyendo a los temas encantadores e imaginativos de la Era de Plata.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Utilización de Etiquetas: </h2>
+        <p class="mb-4">
+          La magia, aunque presente, se vuelve menos prominente en esta era, lo que podría reflejar un cambio hacia narrativas más realistas. El uso de texto para dar sabor, promoción y elementos de cartera indica un enfoque estratégico continuo para el diseño de carteles.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Diversidad y Representación: </h2>
+        <p class="mb-4">
+          La Era de Plata exhibe un aumento significativo en la representación de personajes femeninos, tanto en roles principales como no principales. Esta era muestra un elenco más diverso, con la inclusión de personajes no humanos y la representación de una persona negra.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Legado y Culminación: </h2>
+        <p>
+          La muerte de Walt Disney marca la conclusión de la Era de Plata, siendo "The Jungle Book" la última película supervisada personalmente por Disney. Este período representa la culminación de la dedicación del estudio a la belleza artística y la narración, sentando las bases para el panorama en evolución de la animación de Disney.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impresión General: </h2>
+        <p>
+          La Era de Plata es un testimonio del compromiso de Disney con la excelencia artística y la narración, caracterizada por ilustraciones exuberantes, representación diversa de personajes y un regreso a la grandeza de las producciones de alto presupuesto. El legado de esta era está entrelazado con la participación personal de Walt Disney, lo que la convierte en un período fundamental y emocionalmente resonante en la historia de la animación de Disney.
+        </p>
+        <div id="silver_age_posters" class=" grid grid-cols-5 gap-4 mt-4">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/cinderella_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/alice_in_wonderland_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/peter_pan_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/lady_and_the_tramp_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/sleeping_beauty_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/one_hundred_and_one_dalmatians_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_sword_in_the_stone_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/mary_poppins_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_jungle_book_v1.jpg">
+        </div>
+      </div>
+      <div id="bronze_age">
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Generalidades: </h2>
+        <p class="mb-4">
+          La Era de Bronce de Disney, que abarca desde 1968 hasta 1977, representa una partida de los cuentos de hadas, adentrándose en narrativas más oscuras y seculares. Con un total de 6 películas, esta era se caracteriza por un cambio en las técnicas de animación, pasando de las películas entintadas a mano al uso de la xerografía.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Estilo Visual: </h2>
+        <p class="mb-4">
+          La ilustración sigue siendo predominante, con 4 de las 6 películas que presentan representaciones artísticas dibujadas a mano en sus carteles. El enfoque estilizado es consistente, manteniendo un lenguaje visual distintivo. Se observa un cambio notable hacia el realismo, con 1 película que adopta un diseño más realista, reflejando la partida de la era de los temas tradicionales de los cuentos de hadas.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Personajes y Temas: </h2>
+        <p class="mb-4">
+          Los protagonistas masculinos siguen dominando, con 5 instancias, reflejando una tendencia constante. La inclusión de personajes femeninos disminuye, lo que podría alinearse con la exploración de temas más oscuros y maduros de la era. El vuelo se convierte en un tema más prominente, apareciendo en 2 películas, contribuyendo a los elementos fantásticos de la Era de Bronce.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Utilización de Etiquetas: </h2>
+        <p class="mb-4">
+          Los elementos textuales, utilizados para dar sabor, siguen siendo consistentes en esta era, contribuyendo al enfoque de la narración. El uso continuo de diseños estilizados y la inclusión del vuelo sugieren un equilibrio entre la narración imaginativa y temas más maduros.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Cambio en el Tono Narrativo: </h2>
+        <p class="mb-4">
+          La partida de la Era de Bronce de los cuentos de hadas y la exploración de temas más oscuros y seculares representan un cambio significativo en el enfoque narrativo de Disney. Esta era muestra la voluntad del estudio de experimentar con narrativas que se alejan de las convenciones tradicionales.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Avances Tecnológicos: </h2>
+        <p>
+          Un cambio tecnológico notable durante la Era de Bronce es la transición de películas entintadas a mano a la xerografía. Este cambio en las técnicas de animación refleja la capacidad de adaptación de Disney y su disposición a aceptar los avances en el campo.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impresión General: </h2>
+        <p>
+          La Era de Bronce emerge como un período de experimentación y evolución para Disney, marcado por una partida de los temas de los cuentos de hadas y un abrazo de narrativas más oscuras y maduras. El estilo visual de la era mantiene su calidad artística mientras se adapta a las nuevas tecnologías de animación. La presencia del vuelo y el uso continuo de diseños estilizados insinúan un delicado equilibrio entre mantener las raíces imaginativas de Disney y explorar nuevos territorios creativos.
+        </p>
+        <div id="bronze_age_posters" class=" grid grid-cols-5 gap-4 mt-4">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_aristocats_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/bedknobs_and_broomsticks_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/robin_hood_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_many_adventures_of_winnie_the_pooh_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_rescuers_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/petes_dragon_v1.jpg">
+        </div>
+      </div>
+      <div id="the_dark_age">
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Generalidades: </h2>
+        <p class="mb-4">
+          La Era Oscura de Disney, que abarca desde 1978 hasta 1988, se caracteriza por un período en el que el estudio enfrentó desafíos, tanto creativos como en términos de recepción de la audiencia. Con un total de 5 películas, esta era presenció una partida de los temas alegres y fantásticos, con películas que adoptaron un tono más serio.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Estilo Visual: </h2>
+        <p class="mb-4">
+          La ilustración sigue siendo una característica, aunque con una presencia reducida, que aparece en 2 de las 5 películas. La acción en vivo se introduce en una película, reflejando una partida del formato animado tradicional. Los diseños estilizados persisten, manteniendo un lenguaje visual distintivo que se alinea con las narrativas más serias de la era.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Personajes y Temas: </h2>
+        <p class="mb-4">
+          Los protagonistas masculinos siguen desempeñando un papel importante, apareciendo en 4 de las 5 películas. La disminución en la representación de personajes femeninos, tanto en roles principales como no principales, es notable y contribuye al cambio de la era hacia una narración más seria. La prevalencia de personajes no humanos permanece, lo que sugiere una exploración continua de elementos imaginativos.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Utilización de Etiquetas: </h2>
+        <p class="mb-4">
+          La magia, aunque presente, se vuelve menos prominente en esta era, reflejando el cambio hacia narrativas más realistas y serias. Los diseños estilizados y los elementos textuales para dar sabor persisten, contribuyendo al enfoque de la narración, que es más sobrio en comparación con las eras anteriores.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Cambio en el Tono Narrativo: </h2>
+        <p class="mb-4">
+          La Era Oscura se caracteriza por una partida de las narrativas alegres y caprichosas tradicionalmente asociadas con Disney. Las películas de la era se caracterizan por un tono más serio y maduro, desafiando las expectativas de la audiencia acostumbrada a las obras anteriores del estudio.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Recepción de la Audiencia: </h2>
+        <p>
+          La nota sobre las películas de esta era es "más seria de lo que los fanáticos estaban acostumbrados" refleja los desafíos que enfrentó Disney durante este período. El cambio de tono podría haber afectado las expectativas y la recepción de la audiencia.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impresión General: </h2>
+        <p>
+          La Era Oscura representa un período desafiante para Disney, marcado por una partida del estilo característico del estudio y un cambio hacia una narración más seria y madura. La era, aunque enfrenta dificultades, muestra la capacidad de adaptación de Disney y su disposición a experimentar con tonos narrativos, sentando las bases para futuras transformaciones en el enfoque del estudio.
+        </p>
+        <div id="the_dark_age_posters" class=" grid grid-cols-5 gap-4 mt-4">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_fox_and_the_hound_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_black_cauldron_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_great_mouse_detective_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/who_framed_roger_rabbit_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/oliver_&_company_v1.jpg">
+        </div>
+      </div>
+      <div id="disney_renaissance">
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Generalidades: </h2>
+        <p class="mb-4">
+          El Renacimiento de Disney, que abarca desde 1989 hasta 1999, representa un período de notable resurgimiento y triunfo creativo para Disney. Con un total de 17 películas, cada producción dentro de esta era se considera un éxito de taquilla, marcando un cambio significativo en la fortuna del estudio.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Estilo Visual: </h2>
+        <p class="mb-4">
+          La ilustración sigue siendo una característica dominante, con 11 de las 17 películas que presentan representaciones artísticas dibujadas a mano en sus carteles. La era introduce CGI en 3 películas, reflejando los avances en la tecnología de animación. Los diseños estilizados persisten, con una armoniosa mezcla de magia y realismo, mostrando el compromiso de la era tanto con la narración visual tradicional como moderna.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Personajes y Temas: </h2>
+        <p class="mb-4">
+          Los protagonistas masculinos siguen siendo prominentes, apareciendo en 13 de las 17 películas. La representación de las mujeres en roles principales ve un aumento, alineándose con un enfoque más amplio y más inclusivo de la dinámica de los personajes. El Renacimiento mantiene un equilibrio entre personajes humanos y no humanos, contribuyendo a la diversidad de la narración.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Utilización de Etiquetas: </h2>
+        <p class="mb-4">
+          La magia, los diseños estilizados y los elementos textuales para dar sabor siguen siendo componentes clave, reflejando una estrategia visual y narrativa cohesiva. La inclusión de CGI muestra la disposición de Disney a adoptar los avances tecnológicos sin dejar de ser fiel a sus raíces artísticas tradicionales.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Éxito Comercial: </h2>
+        <p class="mb-4">
+          Un aspecto notable del Renacimiento de Disney es el éxito sin precedentes de cada película en esta era. La combinación de una narración cautivadora, técnicas de animación innovadoras y personajes memorables resonó fuertemente con la audiencia, consolidando la posición de Disney como un gigante de la industria de la animación.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Colaboración con Pixar: </h2>
+        <p>
+          El Renacimiento de Disney coincide con el auge de Pixar, un momento crucial ya que el estudio comenzó a producir películas animadas digitalmente. El éxito de Toy Story, A Bug's Life y Toy Story 2 durante este período representa una colaboración innovadora que daría forma al futuro de la realización de películas animadas.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impresión General: </h2>
+        <p>
+          El Renacimiento de Disney es una era dorada, marcada por triunfos tanto críticos como comerciales. La era no solo revitalizó el departamento de animación de Disney, sino que también sentó las bases para colaboraciones e innovaciones que definirían el panorama de las películas animadas en los próximos años. La armoniosa mezcla de ilustración tradicional y las emergentes tecnologías CGI muestran la capacidad de adaptación de Disney y el compromiso de llevar los límites de la narración animada.
+        </p>
+        <div id="disney_renaissance_posters" class=" grid grid-cols-5 gap-4 mt-4">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_little_mermaid_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/ducktales_the_movie_treasure_of_the_lost_lamp_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_rescuers_down_under_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/beauty_and_the_beast_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/aladdin_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_nightmare_before_christmas_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/a_goofy_movie_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/pocahontas_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/toy_story_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/james_and_the_giant_peach_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_hunchback_of_notre_dame_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/hercules_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/mulan_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/a_bugs_life_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/dougs_1st_movie_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/tarzan_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/toy_story_2_v1.jpg">
+        </div>
+      </div>
+      <div id="post_renaissance">
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Generalidades: </h2>
+        <p class="mb-4">
+          La era del Post Renacimiento, que abarca desde 2000 hasta 2009, representa un período significativo de transición para Disney. Con un total de 34 películas, esta era sirve como puente entre la animación tradicional y la creciente prominencia de CGI, acompañada de un cambio en las técnicas de narración.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Estilo Visual: </h2>
+        <p class="mb-4">
+          La ilustración y el CGI están representados de manera uniforme, con 12 películas cada uno, lo que refleja la exploración de Disney de los métodos de animación tradicionales y modernos. Los diseños estilizados siguen siendo predominantes, lo que indica una continuidad del enfoque artístico. La inclusión de acción en vivo en 2 películas significa una fase experimental para el estudio.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Personajes y Temas: </h2>
+        <p class="mb-4">
+          Los protagonistas masculinos siguen dominando, apareciendo en 25 de las 34 películas. La era mantiene un equilibrio entre personajes humanos y no humanos, lo que indica una diversidad de narración. La inclusión del vuelo como tema recurrente se alinea con la exploración continua de elementos mágicos y fantásticos de Disney.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Utilización de Etiquetas: </h2>
+        <p class="mb-4">
+          La magia, los diseños estilizados y los elementos textuales para dar sabor persisten, mostrando una consistencia temática con las eras anteriores. La exploración de CGI de la era refleja la adaptación de Disney a los avances tecnológicos y las preferencias cambiantes de la audiencia.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Transición y Desafíos: </h2>
+        <p class="mb-4">
+          Dinosaurio sirve como la primera incursión de Disney en la animación CGI, marcando un momento crucial en la historia del estudio. La era se caracteriza por una transición de la animación tradicional a la CGI y un cambio de los viejos estilos narrativos a nuevos enfoques de narración.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Desafíos Comerciales: </h2>
+        <p>
+          A pesar de los avances innovadores en la tecnología de animación, las películas de esta era, con la excepción de Lilo & Stitch, enfrentaron desafíos en la taquilla y no alcanzaron una popularidad generalizada. La era refleja los esfuerzos del estudio por encontrar su lugar en un panorama cambiante.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impresión General: </h2>
+        <p>
+          La era del Post Renacimiento sirve como una fase de transición crucial para Disney, marcada por la experimentación con técnicas de animación y estilos narrativos. La exploración de CGI y acción en vivo de la era insinúa la disposición de Disney a adaptarse a las tendencias de la industria, sentando las bases para una mayor evolución en el enfoque del estudio para la realización de películas animadas. A pesar de enfrentar desafíos comerciales, esta era sienta las bases para los futuros esfuerzos del estudio en animación.
+        </p>
+        <div id="post_renaissance_posters" class=" grid grid-cols-5 gap-4 mt-4">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_little_mermaid_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/ducktales_the_movie_treasure_of_the_lost_lamp_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_rescuers_down_under_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/beauty_and_the_beast_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/aladdin_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_nightmare_before_christmas_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/a_goofy_movie_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/pocahontas_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/toy_story_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/james_and_the_giant_peach_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_hunchback_of_notre_dame_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/hercules_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/mulan_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/a_bugs_life_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/dougs_1st_movie_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/tarzan_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/toy_story_2_v1.jpg">
+        </div>
+      </div>
+      <div id="revival_era">
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Generalidades: </h2>
+        <p class="mb-4">
+          La Era del Renacimiento, que abarca desde 2010 hasta 2023, emerge como un período de resurgimiento e innovación para Disney. Con un total de 41 películas, esta era se caracteriza por una mezcla de animación tradicional y CGI, un énfasis continuo en diseños estilizados y un enfoque notable en la narración diversa.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Estilo Visual: </h2>
+        <p class="mb-4">
+          CGI toma el centro del escenario en esta era, con 27 de las 41 películas que emplean animación generada por computadora. Los diseños estilizados siguen dominando, enfatizando el compromiso de Disney con un enfoque visualmente distinto y artístico. La inclusión de diseños realistas en 3 películas muestra un equilibrio entre la narración imaginativa y un toque de realismo.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Personajes y Temas: </h2>
+        <p class="mb-4">
+          Los protagonistas masculinos siguen siendo predominantes, apareciendo en 28 de las 41 películas, pero la era muestra un aumento significativo en la representación de personajes femeninos, alineándose con un enfoque narrativo más amplio y más inclusivo. El equilibrio entre personajes humanos y no humanos persiste, contribuyendo a la diversidad de narrativas.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Utilización de Etiquetas: </h2>
+        <p class="mb-4">
+          La magia, los diseños estilizados y los elementos textuales con fines de sabor y cartera siguen siendo componentes integrales de las películas de esta era. El aumento del uso de CGI refleja el compromiso de Disney con los avances tecnológicos en animación.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impacto Cultural: </h2>
+        <p class="mb-4">
+          La Era del Renacimiento alcanza nuevas alturas con el éxito monumental de Frozen, convirtiéndose en la película animada más taquillera de todos los tiempos. Esta película, junto con otras de la era, contribuye a un impacto cultural que consolida la posición de Disney como un gigante en la narración animada.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Diversidad y Representación: </h2>
+        <p>
+          La era muestra un aumento notable en la representación de personajes femeninos, personajes no humanos y un esfuerzo continuo por retratar una amplia gama de personajes. Si bien hay progresos, se podrían explorar nuevos avances en la representación en futuros esfuerzos.
+        </p>
+        <h2 class="text-2xl font-bold block justify-center mb-4"> Impresión General: </h2>
+        <p>
+          La Era del Renacimiento es un testimonio de la capacidad de Disney para adaptarse e innovar, combinando animación tradicional y CGI para crear películas visualmente impresionantes e impactantes culturalmente. El enfoque en la narración diversa y el éxito de Frozen simbolizan una reactivación de las capacidades de narración animada de Disney, sentando las bases para futuros logros en el siempre cambiante panorama de la animación.
+        </p>
+        <div id="revival_era_posters" class=" grid grid-cols-5 gap-4 mt-4">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_lion_king_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/toy_story_3_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/tales_from_earthsea_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/tangled_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/gnomeo_&_juliet_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/mars_needs_moms_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/cars_2_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/winnie_the_pooh_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_secret_world_of_arrietty_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/brave_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/frankenweenie_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/wreck-it_ralph_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/monsters_university_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/planes_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/frozen_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_wind_rises_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/planes_fire_&_rescue_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/big_hero_6_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/strange_magic_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/inside_out_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_good_dinosaur_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/zootopia_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/finding_dory_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/moana_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/cars_3_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/coco_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/incredibles_2_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/ralph_breaks_the_internet_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/mary_poppins_returns_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/toy_story_4_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/frozen_ii_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/spies_in_disguise_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/onward_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/raya_and_the_last_dragon_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/rons_gone_wrong_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/encanto_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/the_bobs_burgers_movie_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/lightyear_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/strange_world_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/elemental_v1.jpg">
+          <img class="w-24 h-32 poster-display hover:animate-my-bounce border border-black rounded-md"src="./img/posters/wish_v1.jpg">
+        </div>
+      </div>
+		</div>  
+  </section>
+
+  <!-- <section class="min-h-screen bg-gray-100 p-8">
+    <h2 class="text-2xl font-bold mb-4">Analisis de la Historia de Disney:</h2>
+    <div class="sticky top-0 bg-gray-100 border border-black rounded-md pb-1" id="filter">
+			<Center>
+        <form id="filter_selection" class="flex justify-center">
+        </form>
+			</Center>
+    </div>
+    <canvas id="second_chart" class = "block"></canvas>
+  </section> -->
+
+  <section class="min-h-screen bg-white-100 p-8">
+    <h2 class="text-2xl font-bold mb-4">Conclusiones:</h2>
+    <p class="mb-4">
+      Las eras cinematográficas de Disney, representadas a través de sus carteles, ofrecen una línea temporal visual de evolución y adaptabilidad. Desde la encantadora Edad de Oro hasta la transformadora Renacimiento y la reciente Era de Revitalización, la narrativa de Disney ha evolucionado, resonando con las audiencias a nivel mundial. Los carteles, marcados por cambios en los estilos visuales y la introducción de la animación por computadora, reflejan el viaje dinámico de Disney, con el éxito monumental de Frozen encapsulando el impacto cultural de la Era de Revitalización.
+    </p>
+    <p class="mb-4">
+      Aunque la evolución es evidente, una observación notable es la limitada presencia de representación afrodescendiente a lo largo de las eras. Un análisis más detenido de las etiquetas revela una escasez de la etiqueta "black_person", subrayando una brecha histórica en la representación inclusiva. A pesar de los diversos temas explorados por Disney, la narrativa visual a menudo careció de una representación adecuada de personajes negros. A medida que Disney continúa adaptándose e innovando, abordar esta brecha en la representación se convierte en un aspecto importante para el compromiso del estudio con la diversidad y la narrativa inclusiva en futuros emprendimientos cinematográficos.
+    </p>
+  </section>
+
+  <section class="min-h-screen bg-white-100 p-8">
+    <h2 class="text-2xl font-bold mb-4">Metodología:</h2>
+  </section>
+    
+  <script src="./node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="./node_modules/chart.js/dist/chart.umd.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
