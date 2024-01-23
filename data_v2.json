@@ -176,7 +176,7 @@
             "flight",
             "text:flavor",
             "ilustration",
-              "realistic"
+            "realistic"
           ],
           "curiosities": [],
           "observations": []
@@ -219,7 +219,9 @@
             "text:flavor",
             "non-main:male",
             "non-main:female",
-            "magic"
+            "magic",
+            "ilustration",
+            "stylized"
           ],
           "curiosities": [],
           "observations": []
@@ -242,7 +244,9 @@
 "main:adult",
             "non-main:male",
             "non-main:female",
-            "black_person"
+            "black_person",
+            "ilustration",
+            "realistic"
           ],
           "curiosities": [],
           "observations": []
@@ -357,7 +361,9 @@
             "text:promotion",
             "text:portfolio",
             "non-main:non-human",
-            "non-main:male"
+            "non-main:male",
+            "ilustration",
+            "stylized"
           ],
           "curiosities": [],
           "observations": []
