@@ -123,7 +123,6 @@ async function populateErasDropdown(data) {
         }
         else{
           $("#" + id).show()
-          console.log(POSTER_SET);
         }
       }
   });
@@ -191,8 +190,6 @@ function updateSections(data) {
 	// First Chart
   // populating the select dropdown:
   populateErasDropdown(data);
-  // Second Chart
-  secondChart(data);
 }
 
 $(async function () {

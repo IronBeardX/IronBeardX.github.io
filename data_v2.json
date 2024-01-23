@@ -16,7 +16,7 @@
             "non-main:non-human",
             "non-main:female",
             "ilustration",
-"stylized"
+            "stylized"
           ],
           "curiosities": [],
           "observations": []
@@ -33,12 +33,13 @@
           "release_date": "1940",
           "tags": [
             "main:human",
-"main:male",
-"main:child",
+            "main:male",
+            "main:child",
             "non-main:non-human",
             "non-main:male",
             "non-main:female",
-            "non-main:non-human"
+            "non-main:non-human",
+            "ilustration"
           ],
           "curiosities": [],
           "observations": []
@@ -55,12 +56,13 @@
           "release_date": "1940",
           "tags": [
             "main:human",
-"main:male",
-"main:adult",
+            "main:male",
+            "main:adult",
             "non-main:non-human",
             "non-main:male",
             "flight",
-            "magic"
+            "magic",
+            "ilustration"
           ],
           "curiosities": [],
           "observations": []
@@ -77,13 +79,13 @@
           "release_date": "1941",
           "tags": [
             "main:human",
-"main:male",
-"main:child",
+            "main:male",
+            "main:child",
             "main:non-human",
-"main:male",
-"main:adult",
+            "main:male",
+            "main:adult",
             "ilustration",
-"stylized",
+            "stylized",
             "text:flavor"
           ],
           "curiosities": [],
@@ -101,13 +103,13 @@
           "release_date": "1941",
           "tags": [
             "main:non-human",
-"main:male",
-"main:child",
+            "main:male",
+            "main:child",
             "non-main:male",
             "non-main:non-human",
             "non-main:non-human",
             "ilustration",
-"stylized",
+            "stylized",
             "text:promotion"
           ],
           "curiosities": [],
